@@ -1,3 +1,4 @@
 # TODO
 
--Git session
+- Git session
+- Go to the gym
